@@ -1,0 +1,4 @@
+2025-07-23T22:08:07.446+05:30  INFO 10180 --- [backend] [main] c.a.backend.BackendApplicationTests      : Starting BackendApplicationTests using Java 22.0.2 with PID 10180 (started by Admin in D:\api-server-design-app\backend)
+2025-07-23T22:08:07.448+05:30 DEBUG 10180 --- [backend] [main] c.a.backend.BackendApplicationTests      : Running with Spring Boot v3.5.3, Spring v6.2.8
+2025-07-23T22:08:07.450+05:30  INFO 10180 --- [backend] [main] c.a.backend.BackendApplicationTests      : No active profile set, falling back to 1 default profile: "default"
+2025-07-23T22:08:09.290+05:30  INFO 10180 --- [backend] [main] c.a.backend.BackendApplicationTests      : Started BackendApplicationTests in 2.482 seconds (process running for 4.153)
