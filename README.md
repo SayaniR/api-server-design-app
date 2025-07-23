@@ -42,7 +42,7 @@ java -jar target/simpleapi-1.0-SNAPSHOT.jar
 
 Server will run at: `http://localhost:8080`
 
-## 🔐 Authentication
+## Authentication
 
 All protected routes require a JWT token in the `Authorization` header:
 
