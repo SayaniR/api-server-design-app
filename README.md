@@ -29,7 +29,7 @@ A lightweight Java-based REST API using Spring Boot for user registration, login
 
 ```bash
 git clone <repo-url>
-cd simpleapi
+cd api-server-design-app
 mvn spring-boot:run
 ```
 
@@ -37,7 +37,7 @@ mvn spring-boot:run
 
 ```bash
 mvn clean package
-java -jar target/simpleapi-1.0-SNAPSHOT.jar
+java -jar target/backend-0.0.1-SNAPSHOT.jar
 ```
 
 Server will run at: `http://localhost:8080`
