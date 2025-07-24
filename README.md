@@ -100,7 +100,7 @@ Authorization: Bearer <token>
 
 ## Testing with Postman
 
-1. Import the Postman collection: [simple-api-postman-collection.json](./simple-api-postman-collection.json)
+1. Import the Postman collection: [api-server-postman-collection.json](./API Server App Collection.json)
 2. Register & login to get token
 3. Use `{{jwt_token}}` in Authorization headers
 
